@@ -1,0 +1,32 @@
+_repo: A-Little-English-Gallery_54219
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guiney, Louise Imogen
+    aliases:
+    - Guiney, L.I.
+    - Guiney, L. I.
+    birthdate: 1861
+    deathdate: 1920
+    gutenberg_agent_id: '39368'
+    url: http://www.gutenberg.org/2009/agents/39368
+    wikipedia: http://en.wikipedia.org/wiki/Louise_Imogen_Guiney
+description: ''
+gutenberg_issued: '2017-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54219'
+  lccn: '12032852'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Authors, English -- Biography'
+- GITenberg
+tableOfContents: Lady Danvers (1561-1627) -- Henry Vaughan (1621-1695) -- George Farquhar
+  (1677-1707) -- Topham Beauclerk (1739-1780) and Bennet Langton (1741-1800) -- William
+  Hazlitt (1778-1830).
+title: A Little English Gallery
+url: http://www.gutenberg.org/ebooks/54219
